@@ -1,0 +1,539 @@
+{
+	"Notes": "Each option is the option in the SoH Randomizer tab. 0 is the first, 1 is the second for multi choice. 0 is false, 1 is true for toggle options",
+	"ganonCastle": {
+		"ShuffleGanonBossKey": {
+			"0": 3,
+			"1": 3,
+			"2": 3,
+			"3": 1,
+			"4": 1,
+			"5": 1,
+			"6": 2,
+			"7": 1,
+			"8": 1,
+			"9": 1,
+			"10": 0,
+			"11": 0
+		},
+		"LacsDungeonCount": {
+			"0": 1,
+			"1": 1,
+			"2": 1,
+			"3": 1,
+			"4": 1,
+			"5": 1,
+			"6": 1,
+			"7": 1,
+			"8": 1
+		},
+		"LacsMedallionCount": {
+			"0": 0,
+			"1": 5,
+			"2": 5,
+			"3": 10,
+			"4": 10,
+			"5": 20,
+			"6": 50
+		},
+		"LacsRewardCount": {
+			"0": 0,
+			"1": 5,
+			"2": 5,
+			"3": 10,
+			"4": 10,
+			"5": 10,
+			"6": 20,
+			"7": 20,
+			"8": 20,
+			"9": 100
+		},
+		"LacsStoneCount": {
+			"0": 0,
+			"1": 1,
+			"2": 4,
+			"3": 5
+		},
+		"LacsTokenCount": {
+			"0": 1
+		},
+		"RainbowBridge": {
+			"0": 1,
+			"1": 1,
+			"2": 1,
+			"3": 1,
+			"4": 1,
+			"5": 0,
+			"6": 0,
+			"7": 1
+		},
+		"DungeonCount": {
+			"0": 1,
+			"1": 1,
+			"2": 1,
+			"3": 1,
+			"4": 1,
+			"5": 1,
+			"6": 1,
+			"7": 1,
+			"8": 1
+		},
+		"MedallionCount": {
+			"0": 0,
+			"1": 5,
+			"2": 5,
+			"3": 10,
+			"4": 10,
+			"5": 20,
+			"6": 20
+		},
+		"RewardCount": {
+			"0": 0,
+			"1": 5,
+			"2": 5,
+			"3": 10,
+			"4": 10,
+			"5": 10,
+			"6": 20,
+			"7": 20,
+			"8": 20,
+			"9": 100
+		},
+		"StoneCount": {
+			"0": 0,
+			"1": 1,
+			"2": 4,
+			"3": 5
+		},
+		"TokenCount": {
+			"0": 1
+		},
+		"TriforceHunt": {
+			"0": 9,
+			"1": 1
+		},
+		"TriforceHuntTotalPieces": {
+			"40": 1,
+			"50": 1,
+			"60": 1,
+			"70": 1,
+			"80": 1,
+			"90": 1,
+			"100": 1
+		},
+		"TriforceHuntRequiredPieces": {
+			"80": 1
+		}
+	},
+	"randomizer": {
+		"BombchuBag": {
+			"0": 4,
+			"1": 1
+		},
+		"BossKeysanity": {
+			"0": 1,
+			"1": 1,
+			"2": 1,
+			"3": 0,
+			"4": 0,
+			"5": 1
+		},
+		"ClosedForest": {
+			"0": 0,
+			"1": 1,
+			"2": 1
+		},
+		"DecoupleEntrances": 0,
+		"DoorOfTime": {
+			"0": 1,
+			"1": 4,
+			"2": 5
+		},
+		"Fishsanity":{
+			"0": 1,
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0
+		},
+		"FortressCarpenters": {
+			"0": 1,
+			"1": 1,
+			"2": 1
+		},
+		"GerudoKeys": {
+			"0": 1,
+			"1": 0,
+			"2": 0,
+			"3": 0
+		},
+		"IncludeTycoonWallet": {
+			"0": 9,
+			"1": 1
+		},
+		"KakarikoGate": {
+			"0": 1,
+			"1": 1
+		},
+		"Keysanity":{
+			"0": 2,
+			"1": 2,
+			"2": 2,
+			"3": 1,
+			"4": 1,
+			"5": 2
+		},
+		"LockOverworldDoors":{
+			"0": 19,
+			"1": 1
+		},
+		"Shopsanity": {
+			"0": 2,
+			"1": 7
+		},
+		"ShuffleAdultTrade": {
+			"0": 4,
+			"1": 1
+		},
+		"ShuffleBeehives": {
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleBossEntrances": {
+			"0": 4,
+			"1": 0,
+			"2": 1
+		},
+		"ShuffleBossSouls": {
+			"0": 90,
+			"1": 9,
+			"2": 1
+		},
+		"ShuffleChildWallet": {
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleCows": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleCrates": {
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleDekuNutBag":{
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleDekuStickBag":{
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleDungeonReward":{
+			"1": 1
+		},
+		"ShuffleDungeonsEntrances":{
+			"0": 9,
+			"1": 9,
+			"2": 2
+		},
+		"ShuffleFairies":{
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleFishingPole":{
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleFreestanding":{
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleFrogSongRupees":{
+			"0": 17,
+			"1": 3
+		},
+		"ShuffleGerudoToken": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleGrottosEntrances": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleInteriorsEntrances": {
+			"0": 2,
+			"1": 1,
+			"2": 1
+		},
+		"ShuffleKokiriSword": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleMasterSword": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleMerchants": {
+			"0": 3,
+			"1": 3,
+			"2": 2,
+			"3": 2
+		},
+		"ShuffleOcarinaButtons": {
+			"0": 9,
+			"1": 1
+		},
+		"ShuffleOcarinas": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleOverworldEntrances": {
+			"0": 3,
+			"1": 1
+		},
+		"ShuffleOverworldSpawns": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleOwlDrops": {
+			"0": 1,
+			"1": 1
+		},
+		"ShufflePots": {
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleScrubs": {
+			"0": 0,
+			"1": 1,
+			"2": 2
+		},
+		"ShuffleSongs": {
+			"0": 0,
+			"1": 2,
+			"2": 1,
+			"3": 2
+		},
+		"ShuffleSwim": {
+			"0": 1,
+			"1": 0
+		},
+		"ShuffleTokens": {
+			"0": 30,
+			"1": 25,
+			"2": 25,
+			"3": 20
+		},
+		"ShuffleWarpSongs": {
+			"0": 1,
+			"1": 1
+		},
+		"ShuffleWeirdEgg": {
+			"0": 1,
+			"1": 1
+		},
+		"SkipChildZelda": {
+			"0": 1,
+			"1": 1
+		},
+		"SleepingWaterfall": {
+			"0": 1,
+			"1": 1
+		},
+		"SkeletonKey": {
+			"0": 1,
+			"1": 0
+		},
+		"StartingMapsCompasses": {
+			"0": 1,
+			"1": 1,
+			"2": 1,
+			"3": 1,
+			"4": 1,
+			"5": 1
+		},
+		"ZorasFountain": {
+			"0": 1,
+			"1": 0,
+			"2": 1
+		}
+	},
+	"enhancements": {
+		"FullWallets": {
+			"0": 1,
+			"1": 1
+		},
+		"BlueFireArrows": {
+			"0": 70,
+			"1": 30
+		},
+		"SunlightArrows": {
+			"0": 70,
+			"1": 30
+		},
+		"BigPoeTargetCount": 1,
+		"CuccosToReturn": 1,
+		"EnableBombchuDrops": {
+			"0": 1,
+			"1": 1
+		},
+		"BetterBombchuShopping": 1,
+		"CompleteMaskQuest": {
+			"0": 1,
+			"1": 1
+		},
+		"PersistentMasks": 1,
+		"AdultMasks": 1,
+		"MaskSelect": 1,
+		"MMBunnyHood": 1,
+		"InfinityUpgrades": {
+			"0": 1,
+			"1": 0,
+			"2": 0
+		},
+		"GsExpectSunsSong": {
+			"0": 1,
+			"1": 1
+		},
+		"SkipEponaRace": {
+			"0": 2,
+			"1": 3
+		},
+		"SkipScarecrowSong": {
+			"0": 1,
+			"1": 1
+		},
+		"DamageMult": 0,
+        "FallDamageMult": 0,
+        "VoidDamageMult": 0,
+		"BonkDamageMult": 0,
+        "NoHeartDrops": 0,
+		"HyperEnemies": {
+			"0": 1,
+			"1": 0
+		},
+		"HyperBosses": {
+			"0": 1,
+			"1": 0
+		},
+		"GoronPot": 1,
+		"DampeWin": 1,
+		"DampeAllNight": 1,
+		"DPadEquips": 1,
+		"AssignableTunicsAndBoots": 1,
+		"TimeTravel": {
+			"0": 6,
+			"1": 3,
+			"2": 1
+		},
+		"ChestSizeAndTextureMatchContents": 1,
+		"MarketSneak": 1,
+        "RandomizedEnemies": {
+			"0": 9,
+			"1": 0,
+			"2": 1
+		},
+		"RupeeDash": {
+			"0": 1,
+			"1": 0
+		},
+		"RupeeDashInterval": {
+			"1": 0,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 1,
+			"6": 0,
+			"7": 0,
+			"8": 0,
+			"9": 0,
+			"10": 0
+		},
+		"ShadowTag": {
+			"0": 1,
+			"1": 0
+		},
+		"HurtContainer": {
+			"0": 1,
+			"1": 0
+		},
+		"MirroredWorldMode": {
+			"0": 1,
+			"1": 1,
+			"2": 0,
+			"3": 1,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 1
+		},
+		"CustomizeBombchuBowling": 0,
+        "CustomizeFrogsOcarinaGame": 1,
+        "FrogsModifyFailTime": 2,
+        "CustomizeOcarinaGame": 0,
+        "CustomizeShootingGallery": 0,
+        "CustomizeFishing": 1,
+        "LoachesAlwaysAppear": 1,
+        "MinimumFishWeightAdult": 6,
+        "MinimumFishWeightChild": 3,
+        "FishNeverEscape": 1,
+        "GuaranteeFishingBite": 1,
+        "DynamicWalletIcon": 1,
+        "DisableLOD": 1,
+        "FileSelectMoreInfo": 1,
+        "ToTMedallionsColors": 1,
+        "FastChests": 1,
+        "FastDrops": 1,
+        "FasterBeanSkull": 1,
+        "FasterRupeeAccumulator": 1,
+		"TextSpeed": 5,
+        "ForgeTime": 0
+	},
+	"startingItems": {
+		"StartingSticks": 0,
+		"StartingNuts": 0
+	},
+	"otherRando": {
+	    "CustomKeyModels": 1,
+        "MysteriousShuffle": {
+			"0": 19,
+			"1": 1
+		},
+        "QuestItemFanfares": 1,
+        "RandoRelevantNavi": 1,
+        "RandomizeRupeeNames": 0
+	},
+	"conditionals":{
+		"select_one_pots_crates_freestanding": ["20", "1/1/1", "1/1/1"],
+		"fishing_pond_shuffles_rod": [true],
+		"shuffle_fish_age_split": [true, 50],
+		"master_quest_dungeons": [false, 6, "max"],
+		"key_ring_settings": ["20", 12, "max"],
+		"fortress_keys_match_dungeons": [true],
+		"ganon_trial_settings": [6, "max"],
+		"shopsanity_settings": [4, "max", "1/1/1/1", 2],
+		"allow_greg_gbk": [false, "1/1/1", "1/1"],
+		"allow_greg_bridge": [false, "1/1/1", "1/1"],
+		"shuffle_only_ow_or_int": [false, "30/50/20"],
+		"starting_consumables": ["50"],
+		"starting_hearts": [20, "max", 3]
+	},
+	"hints": {
+		"100GSHint": 1, 
+		"10GSHint": 1, 
+		"20GSHint": 1, 
+		"30GSHint": 1, 
+		"40GSHint": 1, 
+		"50GSHint": 1, 
+		"AltarHint": 1, 
+		"BigPoesHint": 1,
+		"BiggoronHint": 1,
+		"ChickensHint": 1,
+		"DampeHint": 1,
+		"FishingPoleHint": 1,
+		"MalonHint": 1,
+		"MaskShopHint": 1,
+		"MerchantText": 1
+	}
+}
